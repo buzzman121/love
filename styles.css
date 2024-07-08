@@ -1,0 +1,84 @@
+body {
+    background-image: url('https://mir-s3-cdn-cf.behance.net/projects/404/a612bb129944505.Y3JvcCw5NjQsNzU0LDAsMg.jpg'); /* Use the correct path to your image file */
+    background-size: 100vw 100vh; /* Scales the image to fit the entire viewport */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
+    background-attachment: fixed; /* Optional: Keeps the background fixed during scroll */
+    background-color: black; /* Fallback color to fill empty spaces, change as needed */
+}
+
+{
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.6;
+  color: #333;
+  text-align: left;
+  background-color: #f8f9fa;
+}
+
+.container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.header-text {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #007bff;
+  margin-bottom: 30px;
+}
+
+.sub-header0 {
+  font-size: 1.2rem;
+  font-weight: bold; /* Makes the text bold */
+  margin-bottom: 30px;
+}
+
+.sub-header {
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+
+.sub-header2 {
+  font-size: 1.2rem;
+  font-weight: bold; /* Makes the text bold */
+  color: #D52B2B;
+  margin-bottom: 30px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 10px 20px;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.footer-text {
+  font-size: 0.9rem;
+  color: #777;
+  margin-top: 20px;
+}
+
+.footer-textb1 {
+  font-size: 1.2rem;
+  color: #D52B2B;
+  margin-top: 20px;
+}
+
+.privacy-link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.privacy-link:hover {
+  text-decoration: underline;
+}
